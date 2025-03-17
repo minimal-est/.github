@@ -8,7 +8,7 @@
 
 [🔗 로그인](https://minimalest.kr/join) `https://minimalest.kr/login`
 
-[🔗 아카이브 생성](https://minimalest.kr/archive/create) `https://minimalest.kr/archive/create`
+[🔗 아카이브 생성](https://minimalest.kr/archive/create) `https://minimalest.kr/create`
 
 아카이브 메인 `https://minimalest.kr/archive/{작가이름}`
 
