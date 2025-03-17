@@ -6,7 +6,7 @@
 
 [🔗 회원가입](https://minimalest.kr/join) `https://minimalest.kr/join`
 
-[🔗 로그인](https://minimalest.kr/join) `https://minimalest.kr/login`
+[🔗 로그인](https://minimalest.kr/login) `https://minimalest.kr/login`
 
 [🔗 아카이브 생성](https://minimalest.kr/create) `https://minimalest.kr/create`
 
