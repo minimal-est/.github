@@ -1,7 +1,5 @@
 # MINIMALEST
 
----
-
 ## Available Pages
 
 2025 03 18
