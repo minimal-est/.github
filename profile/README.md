@@ -1,35 +1,14 @@
 # MINIMALEST
 
-## Available Pages
+- [🔗 바로가기](https://minimalest.kr) `https://minimalest.kr`
 
 지금 바로 아카이브에 글을 작성하고, 다양한 아카이브에서 영감 받으세요.
 
 아직 릴리즈된 버젼이 아니므로, 개발 테스트 중에 있습니다. 
 
-문의 혹은 피드백은 언제든지 환영합니다.
+문의 혹은 피드백은 아래 메일로 부탁드립니다.
 - 31n5ang@gmail.com
-
-### 2025 03 30
-- 에디터 포맷 워지윅(wysiwyg)에서 마크다운으로 변경
-
-### 2025 03 29
-
-- [🔗 메인](https://minimalest.kr) `https://minimalest.kr`
-
-
-
-### 2025 03 18
-
-- [🔗 회원가입](https://minimalest.kr/join) `https://minimalest.kr/join`
-
-- [🔗 로그인](https://minimalest.kr/login) `https://minimalest.kr/login`
-
-- [🔗 아카이브 생성](https://minimalest.kr/create) `https://minimalest.kr/create`
-
-- 아카이브 메인 `https://minimalest.kr/archive/{작가이름}`
-
-- 포스트 작성 `https://minimalest.kr/archive/{작가이름}/create`
-
-- 포스트 조회 `https://minimalest.kr/archive/{작가이름}/{포스트시퀀스}`
-
-- 포스트 수정 `https://minimalest.kr/archive/{작가이름}/{포스트시퀀스}/modify`
+## Screenshots
+<img width="438" alt="image" src="https://github.com/user-attachments/assets/3269c226-9448-4734-8c58-c1db5325dfd4" />
+<img width="434" alt="image" src="https://github.com/user-attachments/assets/d48dc41c-e3f9-4a37-b41a-e05e4a4bd09d" />
+<img width="442" alt="image" src="https://github.com/user-attachments/assets/f311211b-0c93-440a-9889-d9a24f837c0b" />
